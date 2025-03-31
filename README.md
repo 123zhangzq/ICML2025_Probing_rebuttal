@@ -3,10 +3,10 @@
 
 ## Tables
 ### Table A
-![Table_A1](tables/figs_A/fig_A1_ssprobe_am_p1p2.png)
+<img src="tables/Tab_A_main_SS-Probing.PNG" alt="Table A1" width="400">
+
 
 ### Table B
-
 
 
 
@@ -21,4 +21,5 @@
 
 Here we show the attention pattern of the AM model for two probed nodes:
 
-![Figure A1](figures/figs_A/fig_A1_ssprobe_am_p1p2.png)
+<img src="figures/figs_A/fig_A1_ssprobe_am_p1p2.png" alt="Fig A1" width="900">
+
