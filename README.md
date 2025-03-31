@@ -1,7 +1,23 @@
 # [ICML2025_15421] Probing the Representations of Neural Combinatorial Optimization Models
 
 
-## Supplementary Figures
+## Tables
+### Table A
+
+
+### Table B
+
+
+
+
+## Figures
+
+
+
+## Codes
+
+
+## Test here
 
 Here we show the attention pattern of the AM model for two probed nodes:
 
