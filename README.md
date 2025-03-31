@@ -33,7 +33,7 @@ _Figure_ A3.
 
 ### Figure B1 - B3
 
-_Figure_ B1.
+_Figure_ B1. the current node is node 4. The myopic choice based on Euclidean distance would be node 5, while the correct choice in the optimal solution is node 3. In the two identified key dimensions, node 4 is indeed closer to node 3 than to node 5. Moreover, other nodes closer to node 4 in this space also appear nearby in the optimal solution sequence, further supporting our interpretation.
 
 <img src="figures/figs_B/fig_B1_random_seed=1.png" alt="Fig A1" width="900">
 
@@ -62,12 +62,6 @@ _Figure_ D.
 _Figure_ E.
 
 <img src="figures/figs_E/fig_E_ssprobe_lehd_pt2_during_train.png" alt="Fig A1" width="900">
-
-### Figure F
-
-_Figure_ F.
-
-<img src="figures/figs_F/fig_F_num_instances.png" alt="Fig A1" width="900">
 
 ## Codes
 
