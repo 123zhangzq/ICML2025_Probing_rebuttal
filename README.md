@@ -3,7 +3,7 @@
 
 ## Tables
 ### Table A
-
+![Table_A1](tables/figs_A/fig_A1_ssprobe_am_p1p2.png)
 
 ### Table B
 
