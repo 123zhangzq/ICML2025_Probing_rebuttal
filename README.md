@@ -49,7 +49,7 @@ _Figure_ B3.
 
 _Figure_ C.
 
-<img src="figures/figs_C/fig_C_lehd_code.PNG" alt="Fig A1" width="900">
+<img src="figures/figs_C/fig_C_lehd_code.PNG" alt="Fig A1" width="700">
 
 ### Figure D
 
